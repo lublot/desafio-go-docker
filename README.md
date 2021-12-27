@@ -1,6 +1,6 @@
 ## Desafio Docker e Go
 
-O objetivo do desafio era gerar uma imagem Docker como tamanho máximo de 2MB.
+O objetivo do desafio era gerar uma imagem Docker com o tamanho máximo de 2MB.
 
 #### Como executar:
 
